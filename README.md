@@ -3,7 +3,7 @@ Example:
 g++ banker.cpp -o banker
 ./banker
 
-The program is separated into four different functions.
+The program is separated into four different functions:
 1. Main - calls the following functions
 2. populateArrays - populates the allocation matrix, max matrix, and available resource arrays from the data file
 3. banker - executes the banker algorithm with the given data
